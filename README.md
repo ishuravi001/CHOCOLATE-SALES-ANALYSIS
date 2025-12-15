@@ -5,3 +5,11 @@ It supports data-driven decision-making through clear and structured visualizati
 
 ## DATA USED
 < a href = ”https://github.com/ishuravi001/CHOCOLATE-SALES-ANALYSIS"> Dataset </a>
+
+## KPIS
+What is the total sales amount and total number of boxes sold during the selected period?
+How are sales trending over time by year, quarter, and month?
+Which chocolate products contribute the highest and lowest sales revenue?
+Which countries generate the highest share of total sales?
+How does individual salesperson performance compare in terms of sales amount?
+
