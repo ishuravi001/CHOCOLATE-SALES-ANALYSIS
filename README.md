@@ -21,7 +21,7 @@ It supports data-driven decision-making through clear and structured visualizati
 -	Validated insights and published the dashboard for reporting and analysis.
 
 
-## Project Insights – Awesome Chocolates Sales Dashboard
+## Project Insights 
 -	Overall Sales Performance: Total sales reached $27.99M with 2M boxes sold, reflecting strong overall market demand across regions and products.
 -	Sales Trend Analysis: Monthly sales show fluctuating but stable growth, with noticeable peaks around mid-2023 and early-2024, indicating seasonal buying patterns.
 -	Top Products: Orange Choco, Drinking Coco, and 99% Dark & Pure are the highest revenue-generating products, contributing significantly to total sales.
