@@ -20,6 +20,9 @@ It supports data-driven decision-making through clear and structured visualizati
 -	Designed interactive visualizations to track trends by time, product, country, and salesperson.
 -	Validated insights and published the dashboard for reporting and analysis.
 
+## Dashboard
+<a href = "https://github.com/ishuravi001/CHOCOLATE-SALES-ANALYSIS/blob/main/Screenshot%20(16).png"> Dashboard </a>
+
 
 ## Project Insights 
 -	Overall Sales Performance: Total sales reached $27.99M with 2M boxes sold, reflecting strong overall market demand across regions and products.
