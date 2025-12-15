@@ -4,4 +4,4 @@ This project aims to develop an interactive Power BI dashboard to analyze chocol
 It supports data-driven decision-making through clear and structured visualizations.
 
 ## DATA USED
-< a href = ”https://github.com/ishuravi001/CHOCOLATE-SALES-ANALYSIS/commit/ac2edb2f21b2bfa551f647a65180915a627d06e2"> Dataset </a>
+< a href = ”https://github.com/ishuravi001/CHOCOLATE-SALES-ANALYSIS"> Dataset </a>
