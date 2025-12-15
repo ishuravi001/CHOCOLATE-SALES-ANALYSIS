@@ -13,3 +13,11 @@ It supports data-driven decision-making through clear and structured visualizati
 - Which countries generate the highest share of total sales?
 - How does individual salesperson performance compare in terms of sales amount?
 
+## Process
+-	Collected and imported raw chocolate sales data into Power BI.
+-	Cleaned and transformed data using Power Query for accuracy and consistency.
+-	Created calculated measures and KPIs to analyze sales performance.
+-	Designed interactive visualizations to track trends by time, product, country, and salesperson.
+-	Validated insights and published the dashboard for reporting and analysis.
+
+
